@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NotesApplication</string>
+
+    <string-array name="Notes_Name">
+        <item>Please Select Currency</item>
+        <item>Euro</item>
+        <item>Great British Pound</item>
+        <item>United States Dollars</item>
+    </string-array>
+
+</resources>
